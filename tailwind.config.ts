@@ -17,9 +17,6 @@ const config: Config = {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
       },
-      backgroundImage: {
-        'wireframe': "url('/wireframe.svg')",
-      },
     },
   },
   plugins: [],
